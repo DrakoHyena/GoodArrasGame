@@ -1,0 +1,1177 @@
+[
+    {
+        "index": 0,
+        "name": "Unknown Entity",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 1,
+        "realSize": 1,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2,
+            "points": [
+                {
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 1,
+        "name": "Unknown Class",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 15,
+        "realSize": 15,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2,
+            "points": [
+                {
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 2,
+        "name": "Rock",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": -9,
+        "size": 53.0406,
+        "realSize": 55.2768,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2.08432,
+            "points": [
+                {
+                    "x": 0.180969,
+                    "y": 1.02633
+                },
+                {
+                    "x": 0.180969,
+                    "y": -1.02633
+                },
+                {
+                    "x": -0.979311,
+                    "y": -0.35644
+                },
+                {
+                    "x": 0.798342,
+                    "y": -0.669888
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 3,
+        "name": "Wall",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 4,
+        "size": 49.8047,
+        "realSize": 62.4209,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2.50663,
+            "points": [
+                {
+                    "x": 0.414531,
+                    "y": 1.18278
+                },
+                {
+                    "x": -0.414531,
+                    "y": -1.18278
+                },
+                {
+                    "x": 1.18278,
+                    "y": -0.414531
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 4,
+        "name": "Gravel",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": -7,
+        "size": 52.0063,
+        "realSize": 55.7238,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2.14296,
+            "points": [
+                {
+                    "x": 1.07148,
+                    "y": 0
+                },
+                {
+                    "x": -0.965371,
+                    "y": 0.464898
+                },
+                {
+                    "x": -0.238427,
+                    "y": -1.04462
+                },
+                {
+                    "x": -0.238427,
+                    "y": 1.04462
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 5,
+        "name": "Bullet",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 1,
+        "realSize": 1,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2,
+            "points": [
+                {
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 6,
+        "name": "Turret",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 15,
+        "realSize": 15,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0.639062,
+                "y": 0
+            },
+            "axis": 3.27813,
+            "points": [
+                {
+                    "x": 2.2,
+                    "y": 0.5
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 2.2,
+                    "y": -0.5
+                }
+            ]
+        },
+        "guns": [
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 2.2,
+                "width": 1,
+                "aspect": 1,
+                "angle": 0
+            }
+        ],
+        "turrets": []
+    },
+    {
+        "index": 7,
+        "name": "Unknown Entity",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 1,
+        "realSize": 1,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0,
+                "y": 0
+            },
+            "axis": 2,
+            "points": [
+                {
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 1
+                }
+            ]
+        },
+        "guns": [],
+        "turrets": []
+    },
+    {
+        "index": 8,
+        "name": "Basic",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 15,
+        "realSize": 15,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0.428571,
+                "y": 0
+            },
+            "axis": 2.85714,
+            "points": [
+                {
+                    "x": 1.8,
+                    "y": 0.4
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 1.8,
+                    "y": -0.4
+                }
+            ]
+        },
+        "guns": [
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            }
+        ],
+        "turrets": []
+    },
+    {
+        "index": 9,
+        "name": "THE SPY",
+        "x": 0,
+        "y": 0,
+        "color": 16,
+        "shape": 0,
+        "size": 15,
+        "realSize": 15,
+        "facing": 0,
+        "position": {
+            "middle": {
+                "x": 0.428571,
+                "y": 0
+            },
+            "axis": 2.85714,
+            "points": [
+                {
+                    "x": 1.8,
+                    "y": 0.4
+                },
+                {
+                    "x": -1,
+                    "y": 0
+                },
+                {
+                    "x": 1.8,
+                    "y": -0.4
+                }
+            ]
+        },
+        "guns": [
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            },
+            {
+                "offset": 0,
+                "direction": 0,
+                "length": 1.8,
+                "width": 0.8,
+                "aspect": 1,
+                "angle": 0
+            }
+        ],
+        "turrets": []
+    }
+]
