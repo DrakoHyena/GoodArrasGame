@@ -1,0 +1,14 @@
+{
+  "name": "arras-io",
+  "version": "1.0.0",
+  "description": "A fanmade sequel to diep.io",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "ws": "^3.3.2",
+    "google-closure-library": "^20210406.0.0",
+    "cors": "^2.8.5"
+  }
+}
